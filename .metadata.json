@@ -1,0 +1,14 @@
+[
+  {
+    "package": "robsurvey",
+    "oncran": true
+  },
+  {
+    "package": "rsae",
+    "oncran": true
+  },
+  {
+    "package": "wbacon",
+    "oncran": true
+  }
+]

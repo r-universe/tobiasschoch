@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "wbacon"]
+	path = wbacon
+	url = https://github.com/tobiasschoch/wbacon
+	shallow = true
+	registered = true
 [submodule "robsurvey"]
 	path = robsurvey
 	url = https://github.com/tobiasschoch/robsurvey
@@ -11,10 +16,5 @@
 [submodule "rsae"]
 	path = rsae
 	url = https://github.com/tobiasschoch/rsae
-	shallow = true
-	registered = true
-[submodule "wbacon"]
-	path = wbacon
-	url = https://github.com/tobiasschoch/wbacon
 	shallow = true
 	registered = true

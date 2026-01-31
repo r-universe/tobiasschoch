@@ -8,6 +8,9 @@
 [submodule "rsae"]
 	path = rsae
 	url = https://github.com/tobiasschoch/rsae
+[submodule "testdtrmm"]
+	path = testdtrmm
+	url = https://github.com/tobiasschoch/testdtrmm
 [submodule "wbacon"]
 	path = wbacon
 	url = https://github.com/tobiasschoch/wbacon
